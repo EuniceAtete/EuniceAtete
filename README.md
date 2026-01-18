@@ -3,8 +3,10 @@
 </div>
 <hr>
 <br>
-- 🔭 I’m currently working on **Banking Mobile App**
-- 🌱 I’m currently learning **Laravel and React**
+- 🔭 I’m currently working on SoilSmart and Banking App
+<br>
+- 🌱 I’m currently learning Laravel and React
+<br>
 - 📧 Reach out anytime:
   - Gmail: **euniceatete0@gmail.com**
   - LinkedIn: [Eunice Atete](https://linkedin.com/in/euniceatete)
