@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=400&color=%234FB7B3&width=1000&height=150&size=48&lines=Hi+there%2C+I'm+Eunice+Atete+%F0%9F%91%8B;Aspiring+Full+Stack+Developer+%26+UI%2FUX+Designer;Solving+real-life+problems+through+code+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=400&color=%234FB7B3&width=1000&height=150&size=48&lines=Hi+there%2C+I'm+Eunice+Atete+%F0%9F%91%8B;Aspiring+Full+Stack+Developer+%26+UI%2FUX+Designer;Bringing+impact+through+code+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
-<br>
 <hr>
 <br>
 - 🔭 I’m currently working on **Banking Mobile App**
