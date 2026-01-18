@@ -1,4 +1,7 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=700&color=%2320C997&width=700&height=90&lines=Hi+there%2C+I'm+Eunice+Atete;Aspiring+Full+Stack+Developer;UI%2FUX+Designer;Excited%20to%20work%20on%20cool%20projects%20with%20you">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=400&color=%2300E6A0&width=800&height=100&lines=Hi+there%2C+I'm+Eunice+Atete;Aspiring+Full+Stack+Developer;UI%2FUX+Designer;Solving%20real-life%20problems%20through%20code" alt="Typing SVG" />
+</p>
+
 
 ## UI/UX Designer & Aspiring Full Stack Developer
 
