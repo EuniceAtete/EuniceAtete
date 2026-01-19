@@ -35,4 +35,4 @@
 ## 💬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/euniceatete)
 
-> "Turning ideas into experiences, one line of code at a time." — **Eunice Atete** 🚀
+> "Ideas don’t wait—I make them run." — **Eunice Atete** 🚀
