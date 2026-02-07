@@ -9,7 +9,7 @@
 <br>
 - 💻 Cybersecurity Enthusiast
 <br>
-- 📧 Reach out anytime:
+- 📧 Reach out anytime: 
   - Gmail: **euniceatete0@gmail.com**
   - LinkedIn: [Eunice Atete](https://linkedin.com/in/euniceatete)
 
