@@ -3,7 +3,7 @@
 </div>
 <hr>
 <br>
-- 🔭 I’m currently working on SoilSmart and Banking App
+- 🔭 I’m currently working on SoilNara and Banking App
 <br>
 - 🌱 I’m currently learning Laravel and React
 <br>
