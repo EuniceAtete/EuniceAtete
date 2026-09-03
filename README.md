@@ -3,13 +3,10 @@
 </div>
 <hr>
 <br>
-- 🔭 I’m currently working on SoilNara and Banking App
-<br>
-- 🌱 I’m currently learning Laravel and React
-<br>
-- 💻 Cybersecurity Enthusiast
-<br>
-- 📧 Reach out anytime: 
+
+- Interested in Embedded Engineering
+- Cybersecurity Enthusiast
+- 📧 Reach out anytime:
   - Gmail: **euniceatete0@gmail.com**
   - LinkedIn: [Eunice Atete](https://linkedin.com/in/euniceatete)
 
@@ -31,10 +28,11 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
 
 ## 💬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/euniceatete)
 
-> "Ideas don’t wait—I make them run." — **Eunice Atete** 🚀
+> "Ideas don't wait—I make them run." — **Eunice Atete** 🚀
